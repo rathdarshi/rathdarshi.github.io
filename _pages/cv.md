@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my resume ***[here](http://bit.ly/2CIzkja)***.
+
 Education
 ======
 * Bachelor of Technology (with Honors)
@@ -24,7 +26,7 @@ Education
 
 Work experience
 ======
-* Summer 2017: Software Engineer for *[The Kuwa Foundation](http://kuwa.org)*.
+* Summer 2018: Software Engineer for *[The Kuwa Foundation](http://kuwa.org)*.
   * As part of a team, developed a distributed identification system to uniquely identify people for delivering *[Universal Basic Income](https://whatis.techtarget.com/definition/universal-basic-income-UBI)*.
   * Developed a system known as the *[Kuwa Registrar](https://jamespflynn.com/2018/03/01/kuwa-a-decentralized-pseudo-anonymous-and-sybil-resistant-individual-identification-system/)*, which takes in videos of people, performs facial recognition and 
     identifies duplicates(also known as Sybils).

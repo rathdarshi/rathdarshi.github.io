@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Priyadarshi Rath"
 title_separator          : "-"
 name                     : &name "Priyadarshi Rath"
-description              : &description "Homepage"
+description              : &description "Website"
 url                      : "https://rathdarshi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rathdarshi/rathdarshi.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Priyadarshi Rath"
   avatar           : "profile.png"
-  bio              :
+  bio              : "Computer Science Grad Student"
   location         : "Amherst, Massachusetts"
   # employer         :
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -98,14 +98,14 @@ author:
   # keybase          :
   # instagram        :
   # lastfm           :
-  # linkedin         : 
+  linkedin         : priyadarshirath
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  # twitter          : 
+  twitter          : priyadarshi__
   # vine             :
   # weibo            :
   # xing             :

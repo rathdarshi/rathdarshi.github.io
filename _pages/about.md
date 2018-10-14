@@ -10,22 +10,13 @@ redirect_from:
 
 About Me
 =====
-Computer Science Graduate Student, UMass Amherst
+
+Hi! I am Priyadarshi, currently a grad student pursuing a Masters degree in Computer Science at [UMass Amherst](https://www.umass.edu/). Previously, I was a Bachelors student in Electronics Engineering at [IIIT, Hyderabad](https://www.iiit.ac.in/), where I graduated in August 2017.
 
 My Interests
 ======
 
-
-My Experience
-======
-
-Subtopic 1
-------
-
-
-Subtopic 2
-------
-
+I am interested in applying Machine Learning and Data Science to solve real world problems. To that end, I have taken courses geared toward these domains of Computer Science, and also applied them in relevant scenarios, such as [this](/publications/2017-isbi/) publication and [this](/posts/2018/10/summer-internship-2018/) internship.
 
 <!-- **Markdown generator**
 

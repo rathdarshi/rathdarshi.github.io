@@ -9,32 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my resume ***[here](http://bit.ly/2CIzkja)***.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Technology (with Honors)
+  * International Institute of Information Technology, Hyderabad
+  * Major: Electronics and Communication Engineering
+  * GPA: 8.79 / 10.00
+  * Graduated 2017
+* Master of Science
+  * University of Massachusetts Amherst
+  * Major: Computer Science
+  * GPA: 3.51 / 4.00
+  * 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Software Engineer for *[The Kuwa Foundation](http://kuwa.org)*.
+  * As part of a team, developed a distributed identification system to uniquely identify people for delivering *[Universal Basic Income](https://whatis.techtarget.com/definition/universal-basic-income-UBI)*.
+  * Developed a system known as the *[Kuwa Registrar](https://jamespflynn.com/2018/03/01/kuwa-a-decentralized-pseudo-anonymous-and-sybil-resistant-individual-identification-system/)*, which takes in videos of people, performs facial recognition and 
+    identifies duplicates(also known as Sybils).
+  * Uniquely identified people with minimal data collection in order to facilitate identity systems that can be used for various purposes, including voting systems and cryptocurrency-based basic income faucets.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * numpy/scipy/matplotlib/pandas
+  * pytorch
+* Java
+* C++
+* MATLAB
+* Javascript
+  * NodeJS
+  * React
 
 Publications
 ======
@@ -42,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -57,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->

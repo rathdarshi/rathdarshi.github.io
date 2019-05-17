@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my resume ***[here](http://bit.ly/2CIzkja)***.
+You can download a copy of my resume ***[here](http://bit.ly/2JLjcA0)***.
 
 Education
 ======
@@ -21,7 +21,7 @@ Education
 * Master of Science
   * University of Massachusetts Amherst
   * Major: Computer Science
-  * GPA: 3.51 / 4.00
+  * GPA: 3.58 / 4.00
   * 2019 (expected)
 
 Work experience
@@ -31,18 +31,21 @@ Work experience
   * Developed a system known as the *[Kuwa Registrar](https://jamespflynn.com/2018/03/01/kuwa-a-decentralized-pseudo-anonymous-and-sybil-resistant-individual-identification-system/)*, which takes in videos of people, performs facial recognition and 
     identifies duplicates(also known as Sybils).
   * Uniquely identified people with minimal data collection in order to facilitate identity systems that can be used for various purposes, including voting systems and cryptocurrency-based basic income faucets.
-  
+
 Skills
 ======
 * Python
   * numpy/scipy/matplotlib/pandas
-  * pytorch
-* Java
-* C++
-* MATLAB
+  * PyTorch
+  * Tensorflow
 * Javascript
   * NodeJS
   * React
+* Docker
+* Java
+* AWS
+* C++
+* MATLAB
 
 Publications
 ======
